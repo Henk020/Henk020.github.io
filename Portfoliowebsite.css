@@ -1,0 +1,13 @@
+body {
+    background: repeating-linear-gradient(
+    to right,
+    #000000,
+    #000000 75px,
+    #dde80c 75px,
+    #dde80c 150px
+    )
+    
+}
+h1 {
+    color: red;
+}
